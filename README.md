@@ -13,10 +13,10 @@ pip install virtualenv
 virtualenv nombre_del_entorno_virtual
 ```
 
-3 - Activar el entorno virtual
+3 - Activar el entorno virtual (valido para windows)
 
 ``` rubi
-.\nombre_del_entorno_virtual\Scripts\activate
+.\nombre_del_entorno_virtual\Scripts\activate.bat
 ```
 
 4 - Una vez activado el entorno virtual instalar las dependencias con el siguiente comando
