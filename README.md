@@ -38,4 +38,9 @@ python Descarga_archivos.py
 python Transformaciones.py
 python CrearTablas.py
 python ActualizarDatos.py
+<<<<<<< HEAD
 ```
+=======
+```
+
+>>>>>>> ae9a450b8eb256b95e2589fa1612339f509079c3
