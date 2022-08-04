@@ -1,7 +1,7 @@
 # Data-Analytics-Python
 Para el deploy del proyecto en un entorno virtual ejecute los siguientes comandos en su consola
 
-1 - Instalar la libreria venv con el sigiente controlador
+1 - Instalar la libreria venv con el sigiente comando
 
 ``` rubi
 pip install virtualenv 
